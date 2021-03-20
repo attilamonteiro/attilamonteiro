@@ -3,9 +3,8 @@
 ## Some information about me:
 - :man: I am a mechanical engineer that turned into a data scientist and who loves leveraging data-driven solutions that make an impact on business and society!
 - :brazil: My name is Attila and I'm from Brazil!
-- :game_die: I’m currently studying in mentorama course.
 - :pencil: I write some stuff, follow me on [Medium](https://medium.com/@attilamonteiro).
-- :student: I'm pursuing a graduate's degree.
+- :student: I'm pursuing a studying in mentorama course.
 - 🌱 I’m learning Python, Data Science and Machine Learning (well, the learning path is a lifetime journey...).
 - 💬 Ask me about anything, I love to talk about a lot of topics, not only programming.
 - ⚡ Fun fact:
