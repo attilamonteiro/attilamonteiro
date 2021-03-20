@@ -8,7 +8,7 @@
 - 🌱 I’m learning Python, Data Science and Machine Learning (well, the learning path is a lifetime journey...).
 - 💬 Ask me about anything, I love to talk about a lot of topics, not only programming.
 - ⚡ Fun fact:
-  - :PS4: I love to play PS4.
+  - :game_die: I love to play PS4.
   - :jp: I watch too much animes when I have time.
   - :laughing: I love memes.
 
