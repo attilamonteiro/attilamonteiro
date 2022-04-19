@@ -4,11 +4,11 @@
 - :man: I am a mechanical engineer that turned into a data scientist and who loves leveraging data-driven solutions that make an impact on business and society!
 - :brazil: My name is Attila and I'm from Brazil!
 - :pencil: I write some stuff, follow me on [Medium](https://medium.com/@attilamonteiro).
-- :student: I'm studying in mentorama and sigmoidal's Data Science course.
+- :student: I'm studying in mentorama Data Science course.
 - 🌱 I’m learning Python, Data Science and Machine Learning (well, the learning path is a lifetime journey...).
 - 💬 Ask me about anything, I love to talk about a lot of topics, not only programming.
 - ⚡ Fun fact:
-  - :game_die: I love to play PS4.
+  - :game_die: I love games.
   - :jp: I watch too much animes when I have time.
   - :laughing: I love memes.
 
