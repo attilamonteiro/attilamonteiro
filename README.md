@@ -3,7 +3,7 @@
 ## Some information about me:
 - :man: I am a mechanical engineer that turned into a programmer and who loves to code things that make an impact on business and society!
 - :brazil: My name is Attila and I'm from Brazil!
-- :game_die: I’m currently studying in EBCA course.
+- :game_die: I’m currently studying Front-end Engineering in EBAC course.
 - :pencil: I write some stuff, follow me on [Medium](https://medium.com/@attilamonteiro).
 - :student: I'm pursuing a graduate's degree.
 - 🌱 My skills are React, Vue.js, Node.js, Python, Data Science and Machine Learning (well, the learning path is a lifetime journey...).
