@@ -3,10 +3,10 @@
 ## Some information about me:
 - :man: I am a mechanical engineer that turned into a programmer and who loves to code things that make an impact on business and society!
 - :brazil: My name is Attila and I'm from Brazil!
-- :game_die: I’m currently studying in mentorama course.
+- :game_die: I’m currently studying in EBCA course.
 - :pencil: I write some stuff, follow me on [Medium](https://medium.com/@attilamonteiro).
 - :student: I'm pursuing a graduate's degree.
-- 🌱 I’m learning Node.js, Python, Data Science and Machine Learning (well, the learning path is a lifetime journey...).
+- 🌱 My skills are React, Vue.js, Node.js, Python, Data Science and Machine Learning (well, the learning path is a lifetime journey...).
 - 💬 Ask me about anything, I love to talk about a lot of topics, not only programming.
 - ⚡ Fun fact:
   - 🎮 I love to play games.
