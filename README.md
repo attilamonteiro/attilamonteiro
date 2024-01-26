@@ -6,7 +6,7 @@
 - :game_die: I’m currently studying Front-end Engineering in EBAC course.
 - :pencil: I write some stuff, follow me on [Medium](https://medium.com/@attilamonteiro).
 - :student: I'm pursuing a graduate's degree.
-- 🌱 My skills are React, Vue.js, Node.js, Python, Data Science and Machine Learning (well, the learning path is a lifetime journey...).
+- 🌱 My skills are React, Vue.js, Node.js, C#, Python, Data Science and Machine Learning (well, the learning path is a lifetime journey...).
 - 💬 Ask me about anything, I love to talk about a lot of topics, not only programming.
 - ⚡ Fun fact:
   - 🎮 I love to play games.
