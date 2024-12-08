@@ -3,10 +3,8 @@
 ## Some information about me:
 - :man: I am a mechanical engineer that turned into a programmer and who loves to code things that make an impact on business and society!
 - :brazil: My name is Attila and I'm from Brazil!
-- :game_die: I’m currently studying Front-end Engineering in EBAC course.
-- :pencil: I write some stuff, follow me on [Medium](https://medium.com/@attilamonteiro).
 - :student: I'm pursuing a graduate's degree.
-- 🌱 My skills are React, Vue.js, Node.js, C#, Python, Data Science and Machine Learning (well, the learning path is a lifetime journey...).
+- 🌱 My skills are C#, Node.js, Vue.js, React Python, Data Science and Machine Learning (well, the learning path is a lifetime journey...).
 - 💬 Ask me about anything, I love to talk about a lot of topics, not only programming.
 - ⚡ Fun fact:
   - 🎮 I love to play games.
@@ -18,6 +16,7 @@
 
 
 ## Technologies I use in my day
+  ![.Net](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=for-the-badge)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
